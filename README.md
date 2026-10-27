@@ -12,7 +12,7 @@
 ## 2. Cấu trúc dự án
 
 ```text
-greentech-system/
+cntt1_nhapmoncntt_miniproject_greentech/
 ├── docs/
 │   ├── README.md
 │   └── srs-he-thong.docx
