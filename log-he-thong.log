@@ -1,0 +1,5 @@
+INFO: Server started
+ERROR 404: Page not found
+CRITICAL: Sensor offline
+TIMEOUT: Connection failed
+INFO: System running normally
